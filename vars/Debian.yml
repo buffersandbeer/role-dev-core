@@ -1,0 +1,8 @@
+---
+
+__dev_packages:
+    - git
+    - subversion
+    - build-essential
+    - binutils
+    - gdb
